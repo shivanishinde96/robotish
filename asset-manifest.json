@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robotish/static/css/main.a82fb7a2.chunk.css",
+    "main.js": "/robotish/static/js/main.1506299d.chunk.js",
+    "main.js.map": "/robotish/static/js/main.1506299d.chunk.js.map",
+    "runtime-main.js": "/robotish/static/js/runtime-main.61960fa4.js",
+    "runtime-main.js.map": "/robotish/static/js/runtime-main.61960fa4.js.map",
+    "static/js/2.d070ac75.chunk.js": "/robotish/static/js/2.d070ac75.chunk.js",
+    "static/js/2.d070ac75.chunk.js.map": "/robotish/static/js/2.d070ac75.chunk.js.map",
+    "index.html": "/robotish/index.html",
+    "precache-manifest.f00c019d999fcb09dfc31416d324fee9.js": "/robotish/precache-manifest.f00c019d999fcb09dfc31416d324fee9.js",
+    "service-worker.js": "/robotish/service-worker.js",
+    "static/css/main.a82fb7a2.chunk.css.map": "/robotish/static/css/main.a82fb7a2.chunk.css.map",
+    "static/js/2.d070ac75.chunk.js.LICENSE.txt": "/robotish/static/js/2.d070ac75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61960fa4.js",
+    "static/js/2.d070ac75.chunk.js",
+    "static/css/main.a82fb7a2.chunk.css",
+    "static/js/main.1506299d.chunk.js"
+  ]
+}
